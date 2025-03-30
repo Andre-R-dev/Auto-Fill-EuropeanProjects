@@ -1,4 +1,4 @@
-# Project_Excel_to_Word
+# Auto-Fill-EuropeanProjects
 
 Este software foi desenvolvido para o preenchimento do formulário do IEFP: Programa de apoio ao empreendedorismo e à criação do próprio emprego. O modelo de Excel foi definido pela ADRAL - Agência de Desenvolvimento Regional do Alentejo, mais espeficamente, por Telmo Pena.\
 Este software não deve ser utilizado para qualquer outro tipo de conteúdo e quaisquer alterações na formatação dos documentos inseridos irão causar erros e problemas no programa.
